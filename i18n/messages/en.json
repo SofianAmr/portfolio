@@ -1,0 +1,75 @@
+{
+  "resume": {
+    "greeting": "Hi, I'm",
+    "description": "Front-End Developer React/Next.js • 5+ years experience • Freelance at Eiffage",
+    "summary": "🚀 **Passionate Front-End Developer** and ESILV Computer Engineering graduate, I build modern, high-performing web applications with React and Next.js.\n\n💼 **Freelancing at Eiffage since January 2024**, I develop solutions that address real user needs: AI platform serving +1000 daily users, secure file explorer, robust cloud applications.\n\n🎯 **My background:** I started at SQORUS in 2019 as an IT consultant, working on diverse projects for various clients. My collaboration with Eiffage, which began in 2021, proved particularly rewarding, leading me to choose freelancing in 2024 to focus entirely on their technological challenges.\n\n✨ I combine solid technical skills with a focus on user experience to deliver effective and sustainable solutions.",
+    "location": "Paris, France",
+    "navbar": {
+      "home": "Home",
+      "blog": "Blog"
+    },
+    "ui": {
+      "language": "Language",
+      "switch_to_french": "Switch to French",
+      "switch_to_english": "Switch to English"
+    },
+    "contact": {
+      "email": "Send Email",
+      "section_title": "Contact",
+      "get_in_touch": "Get in Touch",
+      "project_text": "Have a project in mind? Feel free to reach out",
+      "via_email": "via email",
+      "discuss_needs": "to discuss your needs."
+    },
+    "sections": {
+      "about": "About",
+      "work_experience": "Work Experience",
+      "education": "Education",
+      "skills": "Skills"
+    },
+    "work": {
+      "badges": {
+        "freelance": "Freelance",
+        "permanent": "Permanent",
+        "internship": "Internship"
+      },
+      "present": "Present",
+      "locations": {
+        "paris_hybrid": "Paris, Hybrid",
+        "paris_france_hybrid": "Paris, France · Hybrid",
+        "arcueil": "Arcueil, Île-de-France, France",
+        "rueil_malmaison": "Rueil-Malmaison, France",
+        "puteaux": "Puteaux, France",
+        "paris_10": "Paris Xème, France"
+      },
+      "positions": {
+        "frontend_engineer": "Front-End Engineer",
+        "it_consultant": "IT Consultant",
+        "rd_engineer": "R&D Engineer - Web Development",
+        "support_it": "Support IT",
+        "it_monitoring": "IT Monitoring & Metrics Internship",
+        "3d_production": "3D Post-Production Intern"
+      },
+      "descriptions": {
+        "eiffage": "Design and development of modern web applications with special attention to user experience. Key achievements: Eiffage Chat (AI platform with +1000 daily users), DataFile Exchange (secure file explorer), and MyProbes (monitoring platform).",
+        "sqorus": "Working on diverse projects for various clients including AXA, Eiffage, SEB, and Colas. Developed front-end applications while handling UX/UI design and built API integrations with multi-client configurations.",
+        "gfi": "External consultant for Caisse des Dépôts IT department focusing on UX design and front-end development. Contributed to integration test automation to improve quality and deployment processes.",
+        "bnp_support": "Provided IT support and handled technical tasks including reporting. Developed programs and worked on technical solutions for the RS Trucks division.",
+        "bnp_monitoring": "Internship in IT system supervision and metrology within Technical Infrastructure Services. Gained experience with network fundamentals and monitoring systems.",
+        "pictofilmo": "One-month internship in a 3D post-production studio specializing in computer-generated imagery. Contributed to 3D modeling, animation, and texturing."
+      }
+    },
+    "education": {
+      "degrees": {
+        "computer_engineering": "Master's Degree in Computer Engineering",
+        "computer_science_m2": "Master 2 (M2), Computer Science",
+        "scientific_baccalaureate": "Scientific Baccalaureate with Mathematics Specialization"
+      },
+      "descriptions": {
+        "esilv": "Software: 3D - SolidWorks | Programming: C#, C, Python, J2E, Java | Web Development: HTML/CSS/JS, Bootstrap4, MaterialUI, Node.JS, Express, React | Databases: SQL, CQL, Cassandra, MongoDB, Elasticsearch",
+        "bjtu": "Main Courses: Embedded Platform development technology, Mobile Application Development, Big data fusion and data warehouse, Game Design and Implementation, Service Oriented Software Architecture and Cloud Computing | Secondary Course: Chinese",
+        "ermitage": "International School of France: Middle School and High School - Maisons-Laffitte 78600"
+      }
+    }
+  }
+}

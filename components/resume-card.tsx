@@ -50,7 +50,7 @@ export const ResumeCard = ({
       target={openInNewTab ? "_blank" : undefined}
       rel={openInNewTab ? "noopener noreferrer" : undefined}
     >
-      <Card className="flex">
+      <Card className="flex py-4">
         <div className="flex-none">
           <Avatar className="border size-12 m-auto bg-muted-background dark:bg-foreground">
             <AvatarImage
@@ -71,7 +71,7 @@ export const ResumeCard = ({
                     {badges.map((badge, index) => (
                       <Badge
                         variant="secondary"
-                        className="align-middle text-xs"
+                        className="align-middle text-xs rounded-lg px-2 py-0.5"
                         key={index}
                       >
                         {badge}
@@ -86,7 +86,7 @@ export const ResumeCard = ({
                   )}
                 />
               </h3>
-              <div className="text-xs sm:text-sm tabular-nums text-muted-foreground text-right">
+              <div className="text-xs sm:text-sm text-muted-foreground text-right">
                 {period}
               </div>
             </div>
@@ -104,7 +104,7 @@ export const ResumeCard = ({
                 duration: 0.7,
                 ease: [0.16, 1, 0.3, 1],
               }}
-              className="mt-2 text-xs sm:text-sm"
+              className="mt-3 text-xs sm:text-sm"
             >
               {description}
               {technologies && technologies.length > 0 && (
