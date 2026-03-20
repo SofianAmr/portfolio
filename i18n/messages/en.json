@@ -1,8 +1,8 @@
 {
   "resume": {
     "greeting": "Hi, I'm",
-    "description": "Front-End Developer React/Next.js • 5+ years experience • Freelance at Eiffage",
-    "summary": "🚀 **Passionate Front-End Developer** and ESILV Computer Engineering graduate, I build modern, high-performing web applications with React and Next.js.\n\n💼 **Freelancing at Eiffage since January 2024**, I develop solutions that address real user needs: AI platform serving +1000 daily users, secure file explorer, robust cloud applications.\n\n🎯 **My background:** I started at SQORUS in 2019 as an IT consultant, working on diverse projects for various clients. My collaboration with Eiffage, which began in 2021, proved particularly rewarding, leading me to choose freelancing in 2024 to focus entirely on their technological challenges.\n\n✨ I combine solid technical skills with a focus on user experience to deliver effective and sustainable solutions.",
+    "description": "Front-End Developer React/Next.js • 5+ years experience\nFreelance at Eiffage",
+    "summary": "🚀 **Passionate Front-End Developer** and ESILV Computer Engineering graduate, I build modern, high-performing web applications with React and Next.js.\n\n💼 **Freelancing at Eiffage since January 2024**, I develop solutions that address real user needs: AI platform serving +3000 daily users, secure file explorer, robust cloud applications.\n\n🎯 **My background:** I started at SQORUS in 2019 as an IT consultant, working on diverse projects for various clients. My collaboration with Eiffage, which began in 2021, proved particularly rewarding, leading me to choose freelancing in 2024 to focus entirely on their technological challenges.\n\n✨ I combine solid technical skills with a focus on user experience to deliver effective and sustainable solutions.",
     "location": "Paris, France",
     "navbar": {
       "home": "Home",
@@ -51,7 +51,7 @@
         "3d_production": "3D Post-Production Intern"
       },
       "descriptions": {
-        "eiffage": "Design and development of modern web applications with special attention to user experience. Key achievements: Eiffage Chat (AI platform with +1000 daily users), DataFile Exchange (secure file explorer), and MyProbes (monitoring platform).",
+        "eiffage": "Design and development of modern web applications with special attention to user experience. Key achievements: Eiffage Chat (AI platform with +3000 daily users), DataFile Exchange (secure file explorer), and MyProbes (monitoring platform).",
         "sqorus": "Working on diverse projects for various clients including AXA, Eiffage, SEB, and Colas. Developed front-end applications while handling UX/UI design and built API integrations with multi-client configurations.",
         "gfi": "External consultant for Caisse des Dépôts IT department focusing on UX design and front-end development. Contributed to integration test automation to improve quality and deployment processes.",
         "bnp_support": "Provided IT support and handled technical tasks including reporting. Developed programs and worked on technical solutions for the RS Trucks division.",

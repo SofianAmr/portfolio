@@ -1,8 +1,8 @@
 {
   "resume": {
     "greeting": "Moi, c'est",
-    "description": "Développeur Front-End React/Next.js • +5 ans d'expérience • Freelance chez Eiffage",
-    "summary": "🚀 **Développeur Front-End passionné** diplômé de l'ESILV, je conçois des applications web modernes et performantes avec React et Next.js.\n\n💼 **Freelance chez Eiffage depuis janvier 2024**, je développe des solutions qui répondent aux besoins concrets des utilisateurs : plateforme IA avec +1000 utilisateurs quotidiens, explorateur de fichiers sécurisé, applications cloud robustes.\n\n🎯 **Mon parcours :** J'ai débuté chez SQORUS en 2019 en tant que consultant IT, travaillant sur des projets variés pour différents clients. Ma collaboration avec Eiffage, commencée en 2021, s'est révélée particulièrement enrichissante, m'amenant à faire le choix du freelance en 2024 pour me concentrer pleinement sur leurs enjeux technologiques.\n\n✨ Je combine compétences techniques solides et attention à l'expérience utilisateur pour livrer des solutions efficaces et durables.",
+    "description": "Développeur Front-End React/Next.js • +5 ans d'expérience\nFreelance chez Eiffage",
+    "summary": "🚀 **Développeur Front-End passionné** diplômé de l'ESILV, je conçois des applications web modernes et performantes avec React et Next.js.\n\n💼 **Freelance chez Eiffage depuis janvier 2024**, je développe des solutions qui répondent aux besoins concrets des utilisateurs : plateforme IA avec +3000 utilisateurs quotidiens, explorateur de fichiers sécurisé, applications cloud robustes.\n\n🎯 **Mon parcours :** J'ai débuté chez SQORUS en 2019 en tant que consultant IT, travaillant sur des projets variés pour différents clients. Ma collaboration avec Eiffage, commencée en 2021, s'est révélée particulièrement enrichissante, m'amenant à faire le choix du freelance en 2024 pour me concentrer pleinement sur leurs enjeux technologiques.\n\n✨ Je combine compétences techniques solides et attention à l'expérience utilisateur pour livrer des solutions efficaces et durables.",
     "location": "Paris, France",
     "navbar": {
       "home": "Accueil",
@@ -51,7 +51,7 @@
         "3d_production": "Stagiaire Post-Production 3D"
       },
       "descriptions": {
-        "eiffage": "Conception et développement d'applications web modernes avec une attention particulière portée à l'expérience utilisateur. Réalisations principales : Eiffage Chat (plateforme IA utilisée par +1000 personnes/jour), DataFile Exchange (explorateur de fichiers sécurisé), et MyProbes (plateforme de monitoring).",
+        "eiffage": "Conception et développement d'applications web modernes avec une attention particulière portée à l'expérience utilisateur. Réalisations principales : Eiffage Chat (plateforme IA utilisée par +3000 personnes/jour), DataFile Exchange (explorateur de fichiers sécurisé), et MyProbes (plateforme de monitoring).",
         "sqorus": "Participation à des projets variés pour différents clients dont AXA, Eiffage, SEB et Colas. Développement d'applications front-end, prise en charge du design UX/UI et création d'intégrations API avec gestion multi-clients.",
         "gfi": "Mission de conseil externe pour le département IT de la Caisse des Dépôts, spécialisée dans le design UX et le développement front-end. Mise en place de l'automatisation des tests d'intégration pour optimiser la qualité et les déploiements.",
         "bnp_support": "Support informatique et gestion de tâches techniques avec élaboration de rapports. Développement d'outils et création de solutions techniques pour la division RS Trucks.",
